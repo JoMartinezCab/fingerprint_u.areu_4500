@@ -1,6 +1,6 @@
 @echo off
 
-echo windows
+echo linux
 
 pause
 exit /b
